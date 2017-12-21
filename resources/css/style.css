@@ -1,18 +1,39 @@
 body {
   font-family: Helvetica;
+  color: black;
 }
 
 .header {
   text-align: center;
   background-image: url("file:///C:/Users/dmytriy.naida/Documents/projects/broadway/resources/images/the-flatiron-building.png");
+  background-size: cover;
+  width: 100%;
   color: white;
 }
-h1 {
+.header h1 {
   font-size: 70px;
   font-weight: bold;
 }
 
-h3 {
+.header h4 {
   font-size: 18px;
   text-decoration: underline;
+}
+
+.main {
+  text-align: center;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px; 
 }
