@@ -33,7 +33,16 @@ h3 {
   font-size: 23px;
   font-weight: bold;
 }
+.page-break {
+  background-image: url("file:///C:/Users/dmytriy.naida/Documents/projects/broadway/resources/images/the-flatiron-building.png");
+  background-position: center;
+  background-size: cover;
+  text-align: center;
+}
+.page-break h3 {
+  color: white;
+}
 
 p {
-  font-size: 14px; 
+  font-size: 14px;
 }
